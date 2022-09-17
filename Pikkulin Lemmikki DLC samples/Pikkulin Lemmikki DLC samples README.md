@@ -34,7 +34,7 @@ This script handles transitions between 2 image slides with image elements to th
 
 The script actually reuses the same four filler images, 2 on both sides, and slides them in and out of view. This means that:
 - the view port does not need to move
-- main sequential images don't have to be arranged in anny particular way for the next image to appear from any of the four directions
+- main sequential images don't have to be arranged in any particular way for the next image to appear from any of the four directions
 
 #### In hindsight
 
